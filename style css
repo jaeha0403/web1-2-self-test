@@ -1,0 +1,46 @@
+h1 {
+  text-align: center;
+  font-size: 50px;
+  margin-bottom: 0;
+  padding: 20px;
+  border-bottom: 1px solid gray;
+}
+
+h2 {
+  font-size: 30px;
+  margin-left: 20px;
+  padding: 5px;
+  margin-bottom: -15px;
+}
+
+iframe {
+  margin: 20px;
+  margin-bottom: -20px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 200px 2fr;
+}
+
+ol {
+  margin-top: 30px;
+  border-right: 1px solid gray ;
+}
+
+li {
+  font-size: 20px;
+}
+
+p {
+  font-size: 20px;
+  padding : 15px;
+  margin-left: 20px;
+}
+
+input {
+  margin:20px;
+  margin-left: -20px;
+  padding: 10px;
+}
+
